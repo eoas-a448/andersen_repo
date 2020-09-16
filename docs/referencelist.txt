@@ -1,0 +1,4 @@
+Rödig, E., Cuntz, M., Heinke, J., Rammig, A., & Huth, A. (2017). Spatial heterogeneity of biomass and forest structure of the amazon rain forest: Linking remote sensing, forest modelling and field inventory. Global Ecology and Biogeography, 26(11), 1292-1302. doi:10.1111/geb.12639
+de Oliveira, J. V., Ferreira, Douglas Batista da Silva, Sahoo, P. K., Sodré, G. R. C., de Souza, E. B., & Queiroz, J. C. B. (2018). Differences in precipitation and evapotranspiration between forested and deforested areas in the amazon rainforest using remote sensing data. Environmental Earth Sciences, 77(6), 1-14. doi:10.1007/s12665-018-7411-9
+Benitez, F., Anderson, L., & Formaggio, A. (2016). Evaluation of geostatistical techniques to estimate the spatial distribution of aboveground biomass in the amazon rainforest using high-resolution remote sensing data. Acta Amazonica, 46(2), 151-160. doi:10.1590/1809-4392201501254
+
